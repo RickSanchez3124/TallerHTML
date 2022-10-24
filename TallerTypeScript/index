@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>Document</title>
+    <div class="text-left">
+      <div class="row">
+        <div class="col" style="background-color:rgb(0, 0, 10);"> <img src="https://i.pinimg.com/736x/81/ae/2d/81ae2defca3fda8796ff5517e0996a06.jpg" alt="" height="110px"> </div>
+      </div>
+    </div>
+</head>
+<body>
+ <div class="row">
+  <div class="col-6" style="background-color:white;">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Channel</th>
+          <th scope="col">Seasons</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th id="id0" scope="row">1</th>
+          <td>
+            <a id="nombre0" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal0">Otto</td>
+          <td id="temporada0">@mdo</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>
+            <a id="nombre1" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal1">Otto</td>
+          <td id="temporada1">@mdo</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>
+            <a id="nombre2" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal2">Otto</td>
+          <td id="temporada2">@mdo</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td>
+            <a id="nombre3" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal3">Otto</td>
+          <td id="temporada3">@mdo</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td>
+            <a id="nombre4" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal4">Otto</td>
+          <td id="temporada4">@mdo</td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td>
+            <a id="nombre5" class="btn" href="">
+              text
+            </a>
+          </td>
+          <td id="canal5">Otto</td>
+          <td id="temporada5">@mdo</td>
+        </tr>
+      </tbody>
+    </table>
+    <p id = "cont">Seasons average: 0</p>
+  </div>
+  <div id="div" class="col-3" style="background-color:white;">
+    <img id="img" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6a762f8d-ba5a-4b4b-8abd-2ebc0c0a6295/d4ahzc3-1a85370d-8421-4d6c-a6a3-2fbbacbd8ae6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZhNzYyZjhkLWJhNWEtNGI0Yi04YWJkLTJlYmMwYzBhNjI5NVwvZDRhaHpjMy0xYTg1MzcwZC04NDIxLTRkNmMtYTZhMy0yZmJiYWNiZDhhZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ffPt8uRh-shX0-h88JXjtjpCE8LceA8Zv5h1FzZ8j0U" alt="" height="300px" width="240px">
+    <div class="text-left">
+        <br>
+        <p id = "descripcion">Descripción:</p>
+        <br>
+        <a id="url" href="">URL:</a>
+    </div>
+  </div>
+ </div> 
+  <script>var exports = {};</script>
+  <script src="main.js"></script>
+</body>
+</html>
