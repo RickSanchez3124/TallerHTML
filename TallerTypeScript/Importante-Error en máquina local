@@ -1,0 +1,4 @@
+Debido a un error de mi máquina propia en cuanto a pemisos de ejecución de scripts no pude crear el archivo .json 
+y para la creación del archivo .js que iba ligado con el archivo .json, al comentarle a mis compañeros decidí copiar una archivo .js manual y editarla para la realización 
+de los procedimietos necesarios en este archivo.
+El error que me aparece al tratar de ejecutar el comando "tsc --init" es el anexado como "error.img"
